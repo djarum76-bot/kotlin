@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name_heroes">Nama Agent</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Cypher</item>
+        <item>Jett</item>
+        <item>Killjoy</item>
+        <item>Omen</item>
+        <item>Phoenix</item>
+        <item>Raze</item>
+        <item>Reyna</item>
+        <item>Sage</item>
+        <item>Viper</item>
+        <item>Yoru</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>corpseagent</item>
+        <item>korean_nice_girl</item>
+        <item>creative_girl</item>
+        <item>shadow</item>
+        <item>fire_power</item>
+        <item>boom_bot</item>
+        <item>badass_girl</item>
+        <item>your_waifu</item>
+        <item>sadistic_aunt</item>
+        <item>minatothe4th</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Where is everyone hiding?</item>
+        <item>Watch this!</item>
+        <item>Initiated!</item>
+        <item>Watch them run</item>
+        <item>C\'mon, let\'s go!</item>
+        <item>Here comes the party!</item>
+        <item>They will cower!</item>
+        <item>Your duty is not over!</item>
+        <item>Don\'t get in my way!</item>
+        <item>I\'ll handle this!</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/cypher</item>
+        <item>@drawable/jett</item>
+        <item>@drawable/killjoy</item>
+        <item>@drawable/omen</item>
+        <item>@drawable/phoenix</item>
+        <item>@drawable/raze</item>
+        <item>@drawable/reyna</item>
+        <item>@drawable/sage</item>
+        <item>@drawable/viper</item>
+        <item>@drawable/yoru</item>
+    </array>
+</resources>
